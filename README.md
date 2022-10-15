@@ -15,4 +15,4 @@ $ pip3 install requests
 $ python3 main.py 
 ```
 
-The app should be up & running on `http://localhost:8000`. .
+The app should be up & running on `localhost:8000/quote`
